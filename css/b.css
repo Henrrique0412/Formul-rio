@@ -1,0 +1,106 @@
+*{
+	margin:0;
+	padding:0;
+
+}
+#prot{
+
+text-align: right; 
+padding-top: 15px; 
+margin-bottom: 15px;
+
+}
+
+.espaço{
+
+	margin-bottom: : 15px;
+
+}
+
+.container{
+	padding: 25px;
+	margin: 10px;
+	background-color: #fff;
+	width:  900px; 
+	border: none; 
+	margin-left: calc(50% - 470px); 
+}
+
+.content{
+	border-bottom: 2px solid green; 
+	display: flex; 
+	justify-content: space-between; 
+	align-items: flex-end; 
+	width: 100%;
+}
+
+.option{
+	margin-top: 15px; 
+	border-radius: 5px; 
+	border: 1px solid black;
+}
+
+.modelagem{
+	text-align: center;
+	margin-top: 15px;
+}
+
+.modelagem > #asis{
+	display: flex; 
+    padding-top: 30px; 
+	justify-content: center; 
+	width: 100%;
+}
+
+#visto1{
+
+text-align: center; margin-top: 50px;
+
+}
+
+.visto2{
+
+display: flex; 
+justify-content: center; 
+width: 100%; 
+margin-top: 20px; 
+border-radius: 15px; 
+border: 1px solid black;
+
+}
+
+.visto3{
+
+
+text-align: center;
+
+}
+
+#visto4{
+
+text-align: center;
+
+}
+
+.visto5{
+
+display: flex; 
+justify-content: center; 
+width: 100%;
+
+}
+
+.biblio{
+
+margin-left: 10px; 
+text-align: center;
+
+}
+
+.biblio2{
+
+display: flex; 
+justify-content: center;
+width: 100%;
+
+}
